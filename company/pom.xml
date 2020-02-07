@@ -10,9 +10,9 @@
 		<version>2.2.1.RELEASE</version>
 	</parent>
 	<groupId>com.mindtree</groupId>
-	<artifactId>userandlibrary</artifactId>
+	<artifactId>company</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>userandlibrary</name>
 	<url>http://maven.apache.org</url>
