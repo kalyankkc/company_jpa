@@ -7,7 +7,7 @@ node {
    git 'https://github.com/kalyankkc/mindtree-devops-30Jan2020.git'
   }
     
- def project_path="01-Jenkins/Code/petclinic"
+ def project_path="company/"
  
  dir(project_path) {
     
