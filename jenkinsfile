@@ -1,8 +1,4 @@
-node {
- try  {
- notify('Job Started') 
-
-     
+node {     
   stage('Git-Checkout') {
    git 'https://github.com/kalyankkc/mindtree-devops-30Jan2020.git'
   }
@@ -35,4 +31,4 @@ node {
   }
   }
   }
-  }
+  
